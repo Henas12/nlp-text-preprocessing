@@ -27,6 +27,7 @@ NLP
 ## 📦 Setup
 
 1. Clone this repository:
+   
    ```bash
    git clone https://github.com/henas12/nlp-text-preprocessing.git
    cd nlp-text-preprocessing
