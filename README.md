@@ -1,4 +1,3 @@
-```markdown
 # 🧠 NLP Text Preprocessing
 
 This project contains essential components of **Natural Language Processing (NLP)** preprocessing. It is structured step-by-step for better understanding and modularity.
