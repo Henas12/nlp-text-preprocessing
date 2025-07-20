@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Mac and Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache and history
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+pip-log.txt
+
+# Dependency management
+poetry.lock
+Pipfile.lock

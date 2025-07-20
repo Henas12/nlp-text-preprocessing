@@ -1,0 +1,9 @@
+ipykernel 
+numpy
+pandas
+marplotlib
+seaborn 
+flask
+memorty_profiler
+streamlit
+##conda install -p c:\Users\NTGT\Desktop\LLM\venv ipykernel
