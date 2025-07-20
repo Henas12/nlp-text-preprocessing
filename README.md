@@ -31,7 +31,8 @@ NLP
    ```bash
    git clone https://github.com/henas12/nlp-text-preprocessing.git
    cd nlp-text-preprocessing
-````
+
+
 
 2. Create and activate a virtual environment:
 
@@ -40,11 +41,13 @@ NLP
    myenv\Scripts\activate   # On Windows
    ```
 
+
 3. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
+
 
 ## ✅ Dependencies
 
@@ -64,4 +67,4 @@ Each folder under `1-Text Preprocessing` includes example scripts and notebooks 
 
 This project is for educational purposes. You are free to use and modify it as needed.
 
----
+
